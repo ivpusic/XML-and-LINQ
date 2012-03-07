@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<studenti>
+  <Student>
+    <JMBAG>3826</JMBAG>
+    <Ime>Pero</Ime>
+    <Prezime>Pusic</Prezime>
+    <Godina>2011/2012</Godina>
+    <Smjer>Informacijski sustavi</Smjer>
+  </Student>
+  <Student>
+    <JMBAG>34567</JMBAG>
+    <Ime>Mario</Ime>
+    <Prezime>Tokic</Prezime>
+    <Godina>2011/2012</Godina>
+    <Smjer>Poslovni sustavi</Smjer>
+  </Student>
+  <Student>
+    <JMBAG>12345</JMBAG>
+    <Ime>Ivan</Ime>
+    <Prezime>Neki</Prezime>
+    <Godina>345</Godina>
+    <Smjer>fdg</Smjer>
+  </Student>
+</studenti>

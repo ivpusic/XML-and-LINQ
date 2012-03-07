@@ -1,0 +1,26 @@
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\bin\Debug\BazePodatakaXML.exe
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\bin\Debug\BazePodatakaXML.pdb
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\MainWindow.baml
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\App.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML_MarkupCompile.cache
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML.g.resources
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML.Properties.Resources.resources
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML.exe
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML.pdb
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\addPage.baml
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\addPage.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\Search.baml
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\Search.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\EditPage.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML_MarkupCompile.lref
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\EditPage.baml
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\editForm.baml
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\editForm.g.cs
+C:\Users\Ivan\Desktop\FOI\Baze podataka 2\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML.exe
+C:\Users\Ivan\Desktop\FOI\Baze podataka 2\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML.pdb
+C:\Users\Ivan\Desktop\FOI\5. Semestar\Baze podataka 2\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML.exe
+C:\Users\Ivan\Desktop\FOI\5. Semestar\Baze podataka 2\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Debug\BazePodatakaXML.pdb

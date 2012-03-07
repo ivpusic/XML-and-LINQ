@@ -1,0 +1,23 @@
+﻿<Window x:Class="BazePodatakaXML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="424" Width="297" Foreground="Black" OpacityMask="Black" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Height="269" Width="160">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="79*" />
+            <ColumnDefinition Width="81*" />
+        </Grid.ColumnDefinitions>
+        <Button Content="Unos" Height="44" HorizontalAlignment="Center" Margin="4,22,4,0" Name="unosButton" VerticalAlignment="Top" Width="153" Grid.ColumnSpan="2" BorderBrush="Black" Click="unosButton_Click" />
+        <Button Content="Pretrazivanje" Height="44" HorizontalAlignment="Left" Margin="4,72,0,0" Name="pretrazivanjeButton" VerticalAlignment="Top" Width="153" Grid.ColumnSpan="2" Click="pretrazivanjeButton_Click" />
+        <Button Content="Uređivanje" Height="44" HorizontalAlignment="Left" Margin="3,122,0,0" Name="uređivanjeButton" VerticalAlignment="Top" Width="153" Grid.ColumnSpan="2" Click="uređivanjeButton_Click" />
+        <Button Content="Pregled XML-a" Height="44" HorizontalAlignment="Left" Margin="3,172,0,0" Name="pregledButton" VerticalAlignment="Top" Width="153" Grid.ColumnSpan="2" Click="pregledButton_Click" />
+        <Button Content="Izlaz" Height="23" HorizontalAlignment="Center" Margin="43,246,41,0" Name="quitButton" VerticalAlignment="Top" Width="75" Grid.ColumnSpan="2" Click="quitButton_Click" />
+    </Grid>
+    <Window.Background>
+        <RadialGradientBrush>
+            <GradientStop Color="#FFE6E69C" Offset="0.057" />
+            <GradientStop Color="#7C9FB46F" Offset="1" />
+            <GradientStop Color="#BDABCD85" Offset="0.87" />
+        </RadialGradientBrush>
+    </Window.Background>
+</Window>

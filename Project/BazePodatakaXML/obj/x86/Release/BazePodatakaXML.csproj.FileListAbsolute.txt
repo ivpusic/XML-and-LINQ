@@ -1,0 +1,17 @@
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\bin\Release\BazePodatakaXML.exe
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\bin\Release\BazePodatakaXML.pdb
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\addPage.baml
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\MainWindow.baml
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\Search.baml
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\addPage.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\MainWindow.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\Search.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\App.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\BazePodatakaXML_MarkupCompile.cache
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\BazePodatakaXML.g.resources
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\BazePodatakaXML.Properties.Resources.resources
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\BazePodatakaXML.exe
+C:\Users\Ivan\Desktop\bazeSeminar\BazePodatakaXML\BazePodatakaXML\obj\x86\Release\BazePodatakaXML.pdb
